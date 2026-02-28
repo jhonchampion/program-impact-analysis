@@ -11,7 +11,7 @@ Data is collected via Google Forms, processed and transformed in BigQuery, and v
 
 The solution supports evidence-based decision-making by providing structured KPI tracking, automated reporting, and program-level impact analysis.
 
-## Data Privacy & Confidentiality
+## ⚠️‼️ Data Privacy & Confidentiality
 
 This project was implemented for a government-backed program. Due to data sensitivity and confidentiality agreements, raw datasets and identifiable startup information cannot be shared publicly.
 
