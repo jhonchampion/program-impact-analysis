@@ -30,9 +30,10 @@ This project was implemented for a government-backed program. Due to data sensit
 All examples provided are synthetic and for demonstration purposes only.
 
 - [SQL Sample queries](SQL/pipeline.sql)
-- Sample Monitring Dashboard
-<img src= "Images/Dashboard.png" /> 
----
+
+<h1 align="center">Sample Dashboard</h1>
+
+<img src= "Images/Dashboard.png" align="center" /> 
 
 # Problem Statement
 
@@ -70,6 +71,8 @@ Looker Studio Dashboard (auto-refresh)
 - Dashboard refreshes without manual intervention
 - Longitudinal comparison across timepoints
 
+## Conclusion
+This system established a scalable, automated M&E infrastructure for tracking startup ecosystem growth, enabling program managers to monitor impact in real-time and make data-driven decisions.
 
 
 
