@@ -11,11 +11,28 @@ Data is collected via Google Forms, processed and transformed in BigQuery, and v
 
 The solution supports evidence-based decision-making by providing structured KPI tracking, automated reporting, and program-level impact analysis.
 
+## Impact Indicators Tracked
+
+- Tracked performance across 150+ startups and 37 innovation hubs
+- Automated monitoring of 10+ key impact indicators
+- Analyzed cohort across baseline, midline, and endline phases
+- Reduced reporting turnaround time by approximately 70%
+- 200+ Total Jobs Created
+- 40% Revenue Growth (absolute & % change)
+- 20+ Partnership Development
+- Startup Survival & Growth Trends
+- Cohort-Level Performance Comparison
+
 ## ⚠️‼️ Data Privacy & Confidentiality
 
 This project was implemented for a government-backed program. Due to data sensitivity and confidentiality agreements, raw datasets and identifiable startup information cannot be shared publicly.
 
 All examples provided are synthetic and for demonstration purposes only.
+
+- [SQL Sample queries](SQL/pipeline.sql)
+- Sample Monitring Dashboard
+<img src= "Images/Dashboard.png" /> 
+---
 
 # Problem Statement
 
@@ -53,16 +70,6 @@ Looker Studio Dashboard (auto-refresh)
 - Dashboard refreshes without manual intervention
 - Longitudinal comparison across timepoints
 
-## Impact Indicators Tracked
 
-- Tracked performance across 150+ startups and 37 innovation hubs
-- Automated monitoring of 10+ key impact indicators
-- Analyzed cohort across baseline, midline, and endline phases
-- Reduced reporting turnaround time by approximately 70%
-- 200+ Total Jobs Created
-- 40% Revenue Growth (absolute & % change)
-- 20+ Partnership Development
-- Startup Survival & Growth Trends
-- Cohort-Level Performance Comparison
 
 
