@@ -31,7 +31,7 @@ All examples provided are synthetic and for demonstration purposes only.
 
 - [SQL Sample queries](SQL/pipeline.sql)
 
-<h1 align="center">Sample Dashboard</h1>
+<h2 align="center">Sample Dashboard</h2>
 
 <img src= "Images/Dashboard.png" align="center" /> 
 
